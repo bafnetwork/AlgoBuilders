@@ -14,13 +14,13 @@ Much of our work is inspired by the original QF paper: https://www.wtfisqf.com/
 Quadratic Funding (QF) represents a democratized way to allocate funds for public goods based on the community's preferences. This whitepaper aims to design and articulate the process of implementing a QF platform on the Algorand blockchain. The materials and references from various GitHub repositories and articles have been employed to produce a detailed, comprehensive solution tailored to the Algorand ecosystem.
 
 ## Resources
--  https://developer.algorand.org/
--  https://developer.algorand.org/docs/get-started/basics/what_is_blockchain/
--  https://developer.algorand.org/docs/get-started/basics/why_algorand/
--  https://developer.algorand.org/challenges/
--  https://www.algorand.foundation/ace-learning-resources
--  https://www.algorand.com/resources/blog/algorands-core-technology-in-a-nutshell
--  https://www.algorand.com/resources/blog/algorand-smart-contracts
--  https://www.algorand.com/resources/blog/blockchain-development-build-your-first-dapp-algorand
--  https://github.com/algorandfoundation
--  https://github.com/algorandfoundation/algokit-cli
+* https://developer.algorand.org/
+* https://developer.algorand.org/docs/get-started/basics/what_is_blockchain/
+* https://developer.algorand.org/docs/get-started/basics/why_algorand/
+* https://developer.algorand.org/challenges/
+* https://www.algorand.foundation/ace-learning-resources
+* https://www.algorand.com/resources/blog/algorands-core-technology-in-a-nutshell
+* https://www.algorand.com/resources/blog/algorand-smart-contracts
+* https://www.algorand.com/resources/blog/blockchain-development-build-your-first-dapp-algorand
+* https://github.com/algorandfoundation
+* https://github.com/algorandfoundation/algokit-cli
